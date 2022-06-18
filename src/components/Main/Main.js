@@ -1,8 +1,9 @@
 import React from 'react';
+import s from './Main.module.css'
 
-const Main = () => {
+const Main = (props) => {
     return (
-        <div>
+        <div className='main'>
             Main
         </div>
     );
