@@ -4,7 +4,7 @@ import s from './Header.module.css'
 const Header = (props) => {
     return (
         <div className='header'>
-            Header
+            HeaderTESTT PC
         </div>
     );
 };
